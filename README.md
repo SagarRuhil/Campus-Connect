@@ -1,4 +1,3 @@
-![Admin Analytics Dashboard](https://github.com/user-attachments/assets/3acfbae1-62bb-4ea1-9286-6ba5dea74150)![User Management](https://github.com/user-attachments/assets/eca079b0-a24b-49d6-9d85-6386cd576227)
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 # 🚀 Campus Connect
